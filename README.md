@@ -1,6 +1,6 @@
 # FortHX - The first Fortnite backend to be made in Haxe!
 
-Fortnite Server Emulartor/Backend in Haxe!
+Fortnite Server Emulator/Backend in Haxe!
 
 This is a heavy work in progress don't expect this to be done anytime soon!
 
