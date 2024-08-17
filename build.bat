@@ -1,0 +1,1 @@
+haxe -cp source -D analyzer-optimize -main FortHX -cpp bin
