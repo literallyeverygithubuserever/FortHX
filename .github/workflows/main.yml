@@ -13,4 +13,4 @@ jobs:
           haxe-version: latest
 
       - name: Compiling
-        run: haxe build.hxml
+        run: haxe -cp source -D analyzer-optimize -main FortHX -cpp bin
